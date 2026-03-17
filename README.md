@@ -17,6 +17,57 @@
 📅 **Updated On:** [date=2026-03-17 timezone="Asia/Calcutta"]<br>
 💻 **Built Using:** Fast <small><mark>v5.7.0</mark></small>
 
+## Blocks
+
+<img width="277" height="96" alt="FilterApplied_Event" src="https://github.com/user-attachments/assets/2a819674-e215-41c1-abed-63dda2fcc32a" />
+<img width="296" height="96" alt="ProcessingError_Event" src="https://github.com/user-attachments/assets/77a87fe4-534d-42b6-ab56-a2fb61272071" />
+<img width="278" height="96" alt="ImageSaved_Event" src="https://github.com/user-attachments/assets/00974a8c-6708-429c-84ff-208090c99109" />
+<img width="284" height="96" alt="ImageLoaded_Event" src="https://github.com/user-attachments/assets/af421143-cd1b-4ab7-9d90-c6055c6b8192" />
+<img width="314" height="96" alt="FilterListRequested_Event" src="https://github.com/user-attachments/assets/b40b292c-89ce-4792-a690-b28eb6b42671" />
+
+-----
+
+<img width="315" height="96" alt="TransparentColor_Method" src="https://github.com/user-attachments/assets/76862ed1-327f-4030-b48b-b3264886ce99" />
+<img width="136" height="96" alt="TransformFilter_Method" src="https://github.com/user-attachments/assets/b645e071-219b-4bea-aea6-b8d148f6cb7a" />
+<img width="271" height="96" alt="ToonFilter_Method" src="https://github.com/user-attachments/assets/1c6b82ec-9890-40a1-a584-0db2be33022c" />
+<img width="386" height="96" alt="ThresholdEdgeDetectionFilter_Method" src="https://github.com/user-attachments/assets/216d753c-15fd-415d-99e4-9a2d829ae16f" />
+<img width="271" height="96" alt="SwirlFilter_Method" src="https://github.com/user-attachments/assets/dc08db60-2119-4e4d-960a-203cb0c4f60d" />
+<img width="344" height="96" alt="SphereRefractionFilter_Method" src="https://github.com/user-attachments/assets/05ef7caa-1586-4f8a-a383-d8f591a132dd" />
+<img width="180" height="96" alt="SmoothToonFilter_Method" src="https://github.com/user-attachments/assets/6d21a998-7c31-42c9-a919-51c507ee5bed" />
+<img width="216" height="96" alt="RGBFilter_Method" src="https://github.com/user-attachments/assets/5f94e12d-54eb-4b6f-90d8-e1f87bb8a5e2" />
+<img width="282" height="96" alt="ReplaceColorWithImage_Method" src="https://github.com/user-attachments/assets/712f7390-0650-476a-9a59-623495927b1e" />
+<img width="318" height="96" alt="MonochromeFilter_Method" src="https://github.com/user-attachments/assets/10262d38-e61c-4418-bc86-c9a61d9a0f8d" />
+<img width="291" height="96" alt="Initialize_Method" src="https://github.com/user-attachments/assets/b423b6c9-674d-4a3c-915e-bbe5376c7722" />
+<img width="340" height="96" alt="HighlightShadowFilter_Method" src="https://github.com/user-attachments/assets/93a8334f-ee85-4434-a742-0aa2b872c12a" />
+<img width="273" height="96" alt="HazeFilter_Method" src="https://github.com/user-attachments/assets/85daa21f-df48-42fb-b69d-4c5d546ddbd4" />
+<img width="291" height="96" alt="HalftoneFilter_Method" src="https://github.com/user-attachments/assets/cf7c680b-242b-400c-a6fe-5b672c340ceb" />
+<img width="318" height="96" alt="GlassSphereFilter_Method" src="https://github.com/user-attachments/assets/a3655578-d870-4bcc-a447-1b29cc91a405" />
+<img width="306" height="96" alt="FalseColorFilter_Method" src="https://github.com/user-attachments/assets/9a0c59c3-3451-473e-85ce-6a398410740c" />
+<img width="325" height="96" alt="DissolveBlendFilter_Method" src="https://github.com/user-attachments/assets/8cab8753-cba9-4f3f-aa1f-112df06e5632" />
+<img width="308" height="96" alt="CrosshatchFilter_Method" src="https://github.com/user-attachments/assets/7415b01f-1c23-4083-9f20-d466908111f4" />
+<img width="111" height="96" alt="ColorBalanceFilter_Method" src="https://github.com/user-attachments/assets/b89807a5-3c2b-44e5-8c77-7cf6e151e6f1" />
+<img width="228" height="96" alt="ChromaKeyBlendFilter_Method" src="https://github.com/user-attachments/assets/40c3cd94-c9ab-476a-8978-05978789cd76" />
+<img width="309" height="96" alt="AlphaBlendFilter_Method" src="https://github.com/user-attachments/assets/2335cec5-3f28-4ce8-aa8a-254ede86f05e" />
+<img width="323" height="96" alt="WhiteBalanceFilter_Method" src="https://github.com/user-attachments/assets/1765bcb3-83d1-4f03-af83-2c8582d8e559" />
+<img width="166" height="96" alt="VignetteFilter_Method" src="https://github.com/user-attachments/assets/0ed7d655-1cef-423b-8c36-7471b6109be7" />
+<img width="369" height="96" alt="CGAColorspaceFilter_Method" src="https://github.com/user-attachments/assets/621911c9-9b97-40d9-aa8b-46654f803151" />
+<img width="390" height="96" alt="WeakPixelInclusionFilter_Method" src="https://github.com/user-attachments/assets/bfbf3b03-586a-4963-b170-10b828cc644a" />
+<img width="308" height="96" alt="SketchFilter_Method" src="https://github.com/user-attachments/assets/64e985c7-fd39-407d-930d-ec15cbfc109c" />
+<img width="332" height="96" alt="SepiaToneFilter_Method" src="https://github.com/user-attachments/assets/debbba8b-9282-4152-b0cc-e9223de39730" />
+<img width="343" height="96" alt="RGBDilationFilter_Method" src="https://github.com/user-attachments/assets/d98eb5e1-f593-4828-a62d-e3ae284cdbf9" />
+<img width="301" height="96" alt="ResetFilter_Method" src="https://github.com/user-attachments/assets/eead2479-57b6-4510-8c32-b11d5242a604" />
+<img width="333" height="96" alt="RequestRender_Method" src="https://github.com/user-attachments/assets/46c55582-3288-4207-97db-1a741030ccd9" />
+<img width="335" height="96" alt="LuminanceFilter_Method" src="https://github.com/user-attachments/assets/3163f1cf-7f0a-45a7-a7f3-d9ea4fca0119" />
+<img width="326" height="96" alt="LaplacianFilter_Method" src="https://github.com/user-attachments/assets/0fe63437-75b4-4c6d-a125-9787e2f7c7f5" />
+<img width="329" height="96" alt="GrayscaleFilter_Method" src="https://github.com/user-attachments/assets/956f6005-5177-45fe-bd1e-352e314f51c2" />
+<img width="379" height="96" alt="GetImageDimensions_Method" src="https://github.com/user-attachments/assets/da34d43c-8d39-45a5-90c8-9266c3486b76" />
+<img width="356" height="96" alt="GetCurrentBitmap_Method" src="https://github.com/user-attachments/assets/f6710751-77e6-48b3-a2ab-6963be42606c" />
+<img width="361" height="96" alt="GetAvailableFilters_Method" src="https://github.com/user-attachments/assets/5b078049-a117-4e28-af35-8d824b23ca48" />
+<img width="312" height="96" alt="DilationFilter_Method" src="https://github.com/user-attachments/assets/a95feffd-a86f-4b29-a34a-198ce4322ab9" />
+<img width="317" height="96" alt="DeleteImage_Method" src="https://github.com/user-attachments/assets/da0bfe96-3cac-4dc7-b83b-fff4cf670d03" />
+<img width="335" height="96" alt="ColorInvertFilter_Method" src="https://github.com/user-attachments/assets/0f6e3322-c6b7-48d8-b168-da50a4dc2527" />
+
+
 ## **GpuImageTools** has total 5 events.
 
 ### 1. FilterApplied
