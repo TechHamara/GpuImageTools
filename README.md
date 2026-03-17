@@ -15,7 +15,9 @@
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 14<br>
 📅 **Updated On:** [date=2026-03-17 timezone="Asia/Calcutta"]<br>
-💻 **Built Using:** Fast <small><mark>v5.7.0</mark></small>
+💻 **Built Using:** Fast <small><mark>v5.7.0</mark></small><br>
+ **Library Used** here [android-gpuimage](https://github.com/cats-oss/android-gpuimage)
+
 
 ## Blocks
 
@@ -66,6 +68,61 @@
 <img width="312" height="96" alt="DilationFilter_Method" src="https://github.com/user-attachments/assets/a95feffd-a86f-4b29-a34a-198ce4322ab9" />
 <img width="317" height="96" alt="DeleteImage_Method" src="https://github.com/user-attachments/assets/da0bfe96-3cac-4dc7-b83b-fff4cf670d03" />
 <img width="335" height="96" alt="ColorInvertFilter_Method" src="https://github.com/user-attachments/assets/0f6e3322-c6b7-48d8-b168-da50a4dc2527" />
+
+-----
+
+<img width="416" height="94" alt="SoftLightBlendFilter_Setter" src="https://github.com/user-attachments/assets/06997631-2bc6-4dc4-aa75-bd766ccf762f" />
+<img width="416" height="93" alt="SobelThresholdFilter_Setter" src="https://github.com/user-attachments/assets/8b9063f2-426a-4d54-82c9-10ea56beae87" />
+<img width="416" height="87" alt="SobelEdgeDetectionFilter_Setter" src="https://github.com/user-attachments/assets/d098b480-1288-4397-b9c5-6ff18ddbf8df" />
+<img width="386" height="96" alt="SharpenFilter_Setter" src="https://github.com/user-attachments/assets/9bbb75c1-4e01-4e8b-8c87-ab2d5b5dade5" />
+<img width="415" height="96" alt="ScreenBlendFilter_Setter" src="https://github.com/user-attachments/assets/a832ad4d-b928-41e4-a1ec-b1485485cded" />
+<img width="373" height="96" alt="SaveImage_Setter" src="https://github.com/user-attachments/assets/744a0029-1e2a-4f08-88eb-b0b2f77bc93b" />
+<img width="398" height="96" alt="SaturationFilter_Setter" src="https://github.com/user-attachments/assets/41be327d-48a9-465b-9079-f63353798319" />
+<img width="416" height="92" alt="SaturationBlendFilter_Setter" src="https://github.com/user-attachments/assets/4d2f3ced-93dd-4e04-9591-c272d4813ffd" />
+<img width="353" height="96" alt="Rotation_Setter" src="https://github.com/user-attachments/assets/dbac96ac-c03a-4de6-b867-fc22a008b792" />
+<img width="392" height="96" alt="PosterizeFilter_Setter" src="https://github.com/user-attachments/assets/91d0831e-7181-4fe8-b246-af3eb863be8c" />
+<img width="395" height="96" alt="PixelationFilter_Setter" src="https://github.com/user-attachments/assets/df37625c-68c2-4def-8738-0aa89f08d1fd" />
+<img width="416" height="95" alt="OverlayBlendFilter_Setter" src="https://github.com/user-attachments/assets/fc6186a3-a9be-4051-9e61-50793298f847" />
+<img width="416" height="96" alt="NormalBlendFilter_Setter" src="https://github.com/user-attachments/assets/675ed68e-bb10-4daf-b70d-30fdf13f7469" />
+<img width="416" height="96" alt="MultiplyBlendFilter_Setter" src="https://github.com/user-attachments/assets/47f5def7-0917-4551-8e02-a5cc9fccca22" />
+<img width="416" height="92" alt="LuminosityBlendFilter_Setter" src="https://github.com/user-attachments/assets/e35327a0-1f66-422f-89a7-e09363ef5d6a" />
+<img width="416" height="87" alt="LuminanceThresholdFilter_Setter" src="https://github.com/user-attachments/assets/3bea11eb-273c-4045-9316-6380bdd30c06" />
+<img width="379" height="96" alt="LookupFilter_Setter" src="https://github.com/user-attachments/assets/f060e080-69e1-4286-b9aa-ed1b370fc051" />
+<img width="416" height="91" alt="LinearBurnBlendFilter_Setter" src="https://github.com/user-attachments/assets/e0313243-2aa5-4de8-b908-b886a4e54d12" />
+<img width="416" height="96" alt="LightenBlendFilter_Setter" src="https://github.com/user-attachments/assets/993ed313-dc51-477d-98dd-a3614cb2dc55" />
+<img width="397" height="96" alt="KuwaharaFilter_Setter" src="https://github.com/user-attachments/assets/16328fc2-4dc0-4d42-82af-f169afd9782f" />
+<img width="327" height="96" alt="IsProcessing_Getter" src="https://github.com/user-attachments/assets/96e45da5-5c23-4205-ab8c-3dde59f0f36f" />
+<img width="315" height="96" alt="IsInitialized_Getter" src="https://github.com/user-attachments/assets/14c8659e-fd46-49c0-b1ed-43e1888b1707" />
+<img width="404" height="96" alt="ImageFromPath_Setter" src="https://github.com/user-attachments/assets/d7b77a95-a085-4259-9d31-949a11db68e3" />
+<img width="416" height="96" alt="ImageFromAssets_Setter" src="https://github.com/user-attachments/assets/dbde1a63-255d-4e73-af40-cfd80a31b8bc" />
+<img width="358" height="96" alt="HueFilter_Setter" src="https://github.com/user-attachments/assets/21102253-3376-4b7f-873d-eb46b640d9c2" />
+<img width="395" height="96" alt="HueBlendFilter_Setter" src="https://github.com/user-attachments/assets/8e9d2644-f48c-4a4c-a282-64f20b23f32e" />
+<img width="416" height="93" alt="HardLightBlendFilter_Setter" src="https://github.com/user-attachments/assets/5944ebe6-05dd-4778-a6bb-402065f1eff0" />
+<img width="416" height="94" alt="GetGPUImageViewInstance_Getter" src="https://github.com/user-attachments/assets/42a504b1-fdc4-4e01-b367-92971b26e63f" />
+<img width="394" height="96" alt="GetGPUImageInstance_Getter" src="https://github.com/user-attachments/assets/642cb64f-16cf-4935-a1c1-345fd11363a9" />
+<img width="416" height="95" alt="GaussianBlurFilter_Setter" src="https://github.com/user-attachments/assets/ffbfec18-aca1-4b0c-bdd5-672dafafb89b" />
+<img width="383" height="96" alt="GammaFilter_Setter" src="https://github.com/user-attachments/assets/f518b1a1-eae4-4e72-9bf6-61e9eee0e50a" />
+<img width="393" height="96" alt="ExposureFilter_Setter" src="https://github.com/user-attachments/assets/0d26ee15-13b9-429f-b2cf-701d3f5d5969" />
+<img width="416" height="93" alt="ExclusionBlendFilter_Setter" src="https://github.com/user-attachments/assets/b37f5274-12fc-4dd4-a1e8-10eca18200fc" />
+<img width="384" height="96" alt="EmbossFilter_Setter" src="https://github.com/user-attachments/assets/e5102da1-6d58-4e4b-a7e6-feee2f3050d1" />
+<img width="409" height="96" alt="DivideBlendFilter_Setter" src="https://github.com/user-attachments/assets/c84e8d1d-f12b-4941-8ca0-de6d9746b993" />
+<img width="416" height="92" alt="DifferenceBlendFilter_Setter" src="https://github.com/user-attachments/assets/3e2f69ca-6ff2-4140-b828-66a8edbe5698" />
+<img width="416" height="96" alt="DarkenBlendFilter_Setter" src="https://github.com/user-attachments/assets/311449ac-9fd8-4b2d-b126-6c2e8d3ae897" />
+<img width="346" height="96" alt="CurrentRotation_Getter" src="https://github.com/user-attachments/assets/5de4d6aa-41f2-4fb2-9a13-c15bcfb19971" />
+<img width="363" height="96" alt="CurrentFilterName_Getter" src="https://github.com/user-attachments/assets/8f70118a-d0ee-4871-ae01-8938da14cbd4" />
+<img width="386" height="96" alt="ContrastFilter_Setter" src="https://github.com/user-attachments/assets/aa7c3924-43f0-4086-a4dc-cf3cf893413e" />
+<img width="416" height="90" alt="ColorDodgeBlendFilter_Setter" src="https://github.com/user-attachments/assets/6eabc468-d0cb-42fc-91c8-14ee96d1819f" />
+<img width="416" height="92" alt="ColorBurnBlendFilter_Setter" src="https://github.com/user-attachments/assets/2eed533d-0457-493c-a09e-33fd1ec77166" />
+<img width="404" height="96" alt="ColorBlendFilter_Setter" src="https://github.com/user-attachments/assets/b3f08023-7be8-46be-b2af-75bf80973de1" />
+<img width="366" height="96" alt="ClearFilter_Setter" src="https://github.com/user-attachments/assets/44bc3a3a-1951-4ce5-835c-029449d84739" />
+<img width="400" height="96" alt="BrightnessFilter_Setter" src="https://github.com/user-attachments/assets/656e02a3-d802-4eeb-9083-e521a472b8d5" />
+<img width="382" height="96" alt="BoxBlurFilter_Setter" src="https://github.com/user-attachments/assets/1d7259ff-79b8-4c0b-bb7d-c283abdc26d1" />
+<img width="395" height="96" alt="AddBlendFilter_Setter" src="https://github.com/user-attachments/assets/3ac01bed-7f07-4760-aa34-bd590dafb424" />
+<img width="395" height="96" alt="ZoomBlurFilter_Setter" src="https://github.com/user-attachments/assets/40eda0a1-f764-4164-8a30-3dde22666ae9" />
+<img width="389" height="96" alt="VibranceFilter_Setter" src="https://github.com/user-attachments/assets/397aa84d-3297-4c52-bbde-4c0ad399cea0" />
+<img width="416" height="95" alt="SubtractBlendFilter_Setter" src="https://github.com/user-attachments/assets/bb1c897e-a0d2-4956-9bbe-f80e833bd64b" />
+<img width="416" height="90" alt="SourceOverBlendFilter_Setter" src="https://github.com/user-attachments/assets/dc14aed3-b410-436f-8159-7c1dfdf0ba9f" />
+<img width="384" height="96" alt="SolarizeFilter_Setter" src="https://github.com/user-attachments/assets/2096881d-348e-4897-8d84-da9ff519733e" />
 
 
 ## **GpuImageTools** has total 5 events.
