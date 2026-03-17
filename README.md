@@ -15,7 +15,7 @@
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 14<br>
 📅 **Updated On:** [date=2026-03-17 timezone="Asia/Calcutta"]<br>
-
+💻 **Built Using:** Fast <small><mark>v5.7.0</mark></small>
 
 ## **GpuImageTools** has total 5 events.
 
