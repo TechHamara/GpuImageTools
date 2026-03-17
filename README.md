@@ -36,8 +36,7 @@
 <img width="271" height="96" alt="SwirlFilter_Method" src="https://github.com/user-attachments/assets/dc08db60-2119-4e4d-960a-203cb0c4f60d" />
 <img width="344" height="96" alt="SphereRefractionFilter_Method" src="https://github.com/user-attachments/assets/05ef7caa-1586-4f8a-a383-d8f591a132dd" />
 <img width="180" height="96" alt="SmoothToonFilter_Method" src="https://github.com/user-attachments/assets/6d21a998-7c31-42c9-a919-51c507ee5bed" />
-<img width="216" height="96" alt="RGBFilter_Method" src="https://github.com/user-attachments/assets/5f94e12d-54eb-4b6f-90d8-e1f87bb8a5e2" />
-<img width="282" height="96" alt="ReplaceColorWithImage_Method" src="https://github.com/user-attachments/assets/712f7390-0650-476a-9a59-623495927b1e" />
+<img width="216" height="96" alt="RGBFilter_Method" src="https://github.com/user-attachments/assets/5f94e12d-54eb-4b6f-90d8-e1f87bb8a5e2" /> <img width="282" height="96" alt="ReplaceColorWithImage_Method" src="https://github.com/user-attachments/assets/712f7390-0650-476a-9a59-623495927b1e" />
 <img width="318" height="96" alt="MonochromeFilter_Method" src="https://github.com/user-attachments/assets/10262d38-e61c-4418-bc86-c9a61d9a0f8d" />
 <img width="291" height="96" alt="Initialize_Method" src="https://github.com/user-attachments/assets/b423b6c9-674d-4a3c-915e-bbe5376c7722" />
 <img width="340" height="96" alt="HighlightShadowFilter_Method" src="https://github.com/user-attachments/assets/93a8334f-ee85-4434-a742-0aa2b872c12a" />
@@ -66,8 +65,7 @@
 <img width="356" height="96" alt="GetCurrentBitmap_Method" src="https://github.com/user-attachments/assets/f6710751-77e6-48b3-a2ab-6963be42606c" />
 <img width="361" height="96" alt="GetAvailableFilters_Method" src="https://github.com/user-attachments/assets/5b078049-a117-4e28-af35-8d824b23ca48" />
 <img width="312" height="96" alt="DilationFilter_Method" src="https://github.com/user-attachments/assets/a95feffd-a86f-4b29-a34a-198ce4322ab9" />
-<img width="317" height="96" alt="DeleteImage_Method" src="https://github.com/user-attachments/assets/da0bfe96-3cac-4dc7-b83b-fff4cf670d03" />
-<img width="335" height="96" alt="ColorInvertFilter_Method" src="https://github.com/user-attachments/assets/0f6e3322-c6b7-48d8-b168-da50a4dc2527" />
+<img width="317" height="96" alt="DeleteImage_Method" src="https://github.com/user-attachments/assets/da0bfe96-3cac-4dc7-b83b-fff4cf670d03" /> <img width="335" height="96" alt="ColorInvertFilter_Method" src="https://github.com/user-attachments/assets/0f6e3322-c6b7-48d8-b168-da50a4dc2527" />
 
 -----
 
